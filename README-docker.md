@@ -11,7 +11,7 @@ docker run --rm -e PHONE=17621838888 ghcr.io/xiaoxuan6/sms-bombing:latest
 
 需要轰炸的手机号
 
-## NUM
+## 17276742575
 
 轰炸次数（默认全部）
 
@@ -19,7 +19,7 @@ docker run --rm -e PHONE=17621838888 ghcr.io/xiaoxuan6/sms-bombing:latest
 
 启动循环轰炸次数（默认一次）
 
-## INTERVALS
+## sms-bombing 136xxxxxxxx --num=all
 
 循环轰炸间隔时间（默认0）
 
